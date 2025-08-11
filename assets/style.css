@@ -1,0 +1,15 @@
+
+:root { --max: 760px; }
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial, sans-serif; line-height: 1.6; }
+.site-header, .site-footer { padding: 16px; background: #f5f5f5; }
+.site-title { font-weight: 700; margin-right: 12px; }
+nav a { margin-right: 8px; text-decoration: none; }
+.container { max-width: var(--max); margin: 24px auto; padding: 0 16px; }
+a { color: inherit; }
+code, pre { background: #f6f8fa; padding: 2px 4px; border-radius: 4px; }
+@media (prefers-color-scheme: dark) {
+  body { background: #0b0b0b; color: #e6e6e6; }
+  .site-header, .site-footer { background: #111; }
+  code, pre { background: #161b22; }
+}
