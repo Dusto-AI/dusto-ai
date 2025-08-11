@@ -1,10 +1,3 @@
-
----
-layout: default
-title: Blog
-permalink: /blog/
----
-
 # Blog
 
 {% for post in site.posts %}
