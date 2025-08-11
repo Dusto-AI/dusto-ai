@@ -1,9 +1,4 @@
 
----
-layout: default
-title: Home
----
-
 # Hi, I'm Dustin
 
 Welcome to my personal site. I’m learning in public and collecting projects as I go.
