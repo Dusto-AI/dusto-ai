@@ -8,8 +8,10 @@ title: Home
 
 Welcome to my personal site. I’m learning in public and collecting projects as I go.
 
-- Check out my [Projects](/#projects) below
 - Read my [Blog]({{ '/blog/' | relative_url }})
+- Check out my [Projects]({{ '/projects/' | relative_url }})
+
+
 
 ## Projects {#projects}
 
