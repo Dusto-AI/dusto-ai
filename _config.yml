@@ -4,7 +4,7 @@ description: A short tagline about you.
 theme: jekyll-theme-cayman
 
 # Site settings
-url: https://YOUR-USERNAME.github.io
+url: https://dusto-ai.github.io
 baseurl: ""  # keep empty for user site (username.github.io). For project sites, set to "/repo-name".
 permalink: /blog/:year/:month/:day/:title/
 
