@@ -1,6 +1,6 @@
 
-title: Your Name
-description: A short tagline about you.
+title: Dusto AI
+description: Basic blog time
 theme: jekyll-theme-cayman
 
 # Site settings
@@ -10,7 +10,7 @@ permalink: /blog/:year/:month/:day/:title/
 
 # Social (optional; show/hide in templates as you customize)
 author:
-  name: Your Name
-  email: you@example.com
-  github: YOUR-USERNAME
-  linkedin: your-linkedin-handle
+  name: Dustin
+  email: 
+  github: dusto-ai
+  linkedin: 
